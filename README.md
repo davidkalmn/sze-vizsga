@@ -1,8 +1,11 @@
-# PHP vizsga #
-
+# PHP vizsga Kornel#
 https://docs.google.com/document/d/1QjuVu0kVYBjBPU923QJovZQnGAwEBEVefB3y-F678Ew/edit?usp=sharing
 
+# PHP vizsga Gabi#
+https://docs.google.com/document/d/14Sm3GOColG3h6xHqZxt1YOHaR6qh0Jx9nBuz8kwAmyk/edit?usp=sharing
 
+# PHP vizsga Levi#
+https://docs.google.com/document/d/1SlfLWHz_eu_5vTzPjRiVCp54ZHHVCi5SjC-xAO_2Fhk/edit?usp=sharing
 ## Blog ##
 Bejegyzés létrehozás, módosítás - kommentelés
 https://docs.google.com/document/d/1N02Qf-WJEKwP0OczP6HJNAOHTCYOVFofEZGsIW-4s0Q/edit#heading=h.pi71uga2g94s
